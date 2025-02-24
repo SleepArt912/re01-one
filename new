@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>LiuZixuan的课堂签到小程序</title>
+    <style>  
+      body {
+        margin: 0;
+      }
+    </style>
+  </head>
+  <body>
+    <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:40px;
+    ">
+      <img src='https://tse4-mm.cn.bing.net/th/id/OIP-C.kwHRO7ZBTELmiWBUhsslXAHaHa?rs=1&pid=ImgDetMain' alt="奈布" width="80px" height="80px">
+    </div>
+    <div style="
+    max-width:700px;
+    margin:30px auto;
+    padding:15px;
+    line-height:1.7;
+    color:blue;"
+    >
+      <p>Computer organization</p>
+      <p>Signal and Processing</p>
+      <p>Cloud Computing</p>
+    </div>
+    <div style="
+    background-color:#f1f1f1;
+    text-align:center;
+    padding:40px;">
+    <p>课堂签到小程序</p>
+    <a href="https://www.bilibili.com/video/BV1VXW3e6Ejn/?spm_id_from=333.337.search-card.all.click&vd_source=2b9d1890aed4c6f9de951b2dcd6edf4c">点击签到</a>
+    </div>
+  </body>
+</html>
